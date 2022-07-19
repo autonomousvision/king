@@ -1,0 +1,11 @@
+{
+  "id": "16_10_21_bothEvals_Shards_Train_RoutesPerScenario_15_10_2021_new_lr0.001_classesLTS_Reduced_pred_len4_augment1_max_augment20_gt_waypointsFuturePos_controllerPID",
+  "train_dataset_path": "datasets/carla/Shards_Train_RoutesPerScenario_15_10_2021_new/Shards_Train_RoutesPerScenario_15_10_2021_new",
+  "device": "cuda",
+  "target_im_size": [
+    192,
+    192
+  ],
+  "seq_len": 1,
+  "pred_len": 4
+}

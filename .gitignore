@@ -1,0 +1,11 @@
+outputs/
+aim_bev_regular_data/
+carla_server/
+generation_results*/
+carla_results/
+fine_tuning_results/
+__pycache__/
+driving_agents/king/transfuser/model_checkpoints
+
+*.png
+

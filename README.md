@@ -2,7 +2,10 @@
 
 ## [Project Page](https://lasnik.github.io/king/) | [Paper](https://arxiv.org/pdf/2204.13683.pdf) | [Supplementary](https://lasnik.github.io/king/data/docs/KING_supplementary.pdf)
 
-<img src="./assets/teaser.svg" hspace=30>
+<div style="text-align: center">
+  <img style="border:5px solid #263b50;" src="./assets/animated_teaser_h264.gif"/>
+</div>
+<!-- <img src="./assets/animated_teaser_h264.gif"> -->
 
 This repository contains the code for the ECCV 2022 paper [KING: Generating Safety-Critical Driving Scenarios for Robust Imitation via Kinematics Gradients](https://arxiv.org/pdf/2204.13683.pdf). If you find this repository useful, please cite
 ```bibtex

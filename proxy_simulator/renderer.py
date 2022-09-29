@@ -17,9 +17,7 @@ PIXELS_PER_METER = 5
 
 class BaseRenderer():
     """
-        Base class for BEAST's differentiable renderers.
-
-        Implements various common things, such as coordinate transforms,
+        Base class. Implements various common things, such as coordinate transforms,
         visualization and a function to render local views of the global map.
     """
     def __init__(self, args, map_offset, map_dims, viz=False):

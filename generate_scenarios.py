@@ -83,9 +83,6 @@ class GenerationEngine:
 
     def run(self):
         """
-        Runs a job. This job can include online training and evaluation
-        components in the differentiable simulator, as well as offline
-        training and evaluation using static datasets.
         """
 
         scenario_params = [

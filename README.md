@@ -19,9 +19,9 @@ This repository contains the code for the ECCV 2022 paper [KING: Generating Safe
 
 ## Contents
 1. [Setup](#setup)
-3. [Scenario Generation](#data-generation)
-4. [Fine-tuning](#training)
-5. [Town10 Intersections](#evaluation)
+3. [Scenario Generation](#king-scenario-generation)
+4. [Fine-tuning](#fine-tuning)
+5. [Town10 Intersections](#town10-intersections)
 7. [Acknowledgements](#acknowledgements)
 
 ## Setup
@@ -102,3 +102,8 @@ This implementation is based on code from several repositories. We sincerely tha
 - [Scenario Runner](https://github.com/carla-simulator/scenario_runner)
 - [Learning by Cheating](https://github.com/dotchen/LearningByCheating)
 - [World on Rails](https://github.com/dotchen/WorldOnRails)
+
+Also, check out the code for other recent work on CARLA from our group:
+- [Renz et al., PlanT: Explainable Planning Transformers via Object-Level Representations (CoRL 2022)](https://github.com/autonomousvision/plant)
+- [Chitta et al., TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving (PAMI 2022)](https://github.com/autonomousvision/transfuser)
+- [Chitta et al., NEAT: Neural Attention Fields for End-to-End Autonomous Driving (ICCV 2021)](https://github.com/autonomousvision/neat)

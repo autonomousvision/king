@@ -230,7 +230,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--scenario_log_dir",
         type=str,
-        default="results_tf_attacks_suppmat",
+        default="generation_results",
         help="The directory containing the per-route directories with the "
              "corresponding scenario log .json files.",
     )

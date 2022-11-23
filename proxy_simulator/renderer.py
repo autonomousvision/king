@@ -33,7 +33,7 @@ class BaseRenderer():
                 device=self.args.device,
                 dtype=torch.float32
             )
-            self.crop_dims = (900, 900)  # we use a bigger crop for visualization
+            self.crop_dims = (300, 300)  # we use a bigger crop for visualization
         else:
             self.PIXELS_AHEAD_VEHICLE = torch.tensor(
                 [100 + 10],
